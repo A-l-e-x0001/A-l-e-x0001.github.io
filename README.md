@@ -1,4 +1,4 @@
-# Api Phrase and image generater
+# AI Phrase and image generater
 
 Nice coding practice.
 
